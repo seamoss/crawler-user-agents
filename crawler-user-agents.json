@@ -593,24 +593,24 @@
   {
     "pattern": "Slackbot",
     "addition_date": "2014/11/10",
-    "instances": ["(Slackbot 1.0 (+https://api.slack.com/robots))", "Slackbot-LinkExpanding 1.0 (+https://api.slack.com/robots))"],
+    "instances": ["Slackbot 1.0 (+https://api.slack.com/robots)", "Slackbot-LinkExpanding 1.0 (+https://api.slack.com/robots)"],
     "url": "https://api.slack.com/robots"
   },
   {
     "pattern": "ShowyouBot",
     "addition_date": "2014/11/10",
-    "instances": ["(ShowyouBot (http://showyou.com/crawler))"],
+    "instances": ["ShowyouBot (http://showyou.com/crawler)"],
     "url": "http://showyou.com/crawler"
   },
   {
     "pattern": "dataminr",
     "addition_date": "2014/11/10",
-    "instances": ["(help@dataminr.com)"],
+    "instances": ["help@dataminr.com"],
     "url": "http://dataminr.com"
   },
   {
     "pattern": "Apache-HttpClient",
     "addition_date": "2014/11/10",
-    "instances": ["(Apache-HttpClient/UNAVAILABLE (java 1.4))"]
+    "instances": ["Apache-HttpClient/UNAVAILABLE (java 1.4)"]
   }
 ]
