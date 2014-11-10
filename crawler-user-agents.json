@@ -571,7 +571,7 @@
   {
     "pattern": "Livelapbot",
     "addition_date": "2014/09/12",
-    "instances": ["Livelapbot/0.1" ]
+    "instances": ["Livelapbot/0.1", "Livelapbot/0.2" ]
   },
   {
     "pattern": "Twitterbot",
@@ -589,5 +589,28 @@
     "addition_date": "2014/10/04",
     "instances": ["Mozilla/5.0 (compatible; SMTBot/1.0; +http://www.similartech.com/smtbo)t", "SMTBot (similartech.com/smtbot)"],
     "url": "http://www.similartech.com/smtbot"
+  },
+  {
+    "pattern": "Slackbot",
+    "addition_date": "2014/11/10",
+    "instances": ["(Slackbot 1.0 (+https://api.slack.com/robots))", "Slackbot-LinkExpanding 1.0 (+https://api.slack.com/robots))"],
+    "url": "https://api.slack.com/robots"
+  },
+  {
+    "pattern": "ShowyouBot",
+    "addition_date": "2014/11/10",
+    "instances": ["(ShowyouBot (http://showyou.com/crawler))"],
+    "url": "http://showyou.com/crawler"
+  },
+  {
+    "pattern": "dataminr",
+    "addition_date": "2014/11/10",
+    "instances": ["(help@dataminr.com)"],
+    "url": "http://dataminr.com"
+  },
+  {
+    "pattern": "Apache-HttpClient",
+    "addition_date": "2014/11/10",
+    "instances": ["(Apache-HttpClient/UNAVAILABLE (java 1.4))"]
   }
 ]
